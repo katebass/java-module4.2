@@ -3,9 +3,11 @@
 Getting Error lines by date and writing them to the file
 
 There are 23 ERROR lines. on 2019-10-21
+
 Execution time: 2262
 
 There are 13 ERROR lines. on 2019-11-13
+
 Execution time: 1729
 
 There are 23 ERROR lines. on 2020-01-03
